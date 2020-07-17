@@ -8,3 +8,7 @@ groceries = {
 }
 
 puts get_the_keys(groceries)
+
+def keys 
+  groceries.keys
+end 
